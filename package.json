@@ -1,0 +1,20 @@
+{
+  "name": "project_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -r dist/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ognjen-gojkovic/js-project-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ognjen-gojkovic/js-project-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ognjen-gojkovic/js-project-boilerplate#readme"
+}
